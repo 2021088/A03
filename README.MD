@@ -15,7 +15,7 @@ Tutorial
 
 7. Click on the url in Github pages to see your website
 
-# Branch
+# * Branch
 -a set of code that you can work on without affecting the main branch
 
 # Clone
