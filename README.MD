@@ -1,9 +1,19 @@
 # A03
 Tutorial
 
+1. Install Webstorm and GIT
 
+2. Make a Github account
 
+3. Press on the "+" on the top right corner of Github to create a new repository and name it
 
+4. On Webstorm, create a file to make a project and choose a location
+
+5. When you want to share with Github, committ the changes you made on that file, write a comment, and share with your email 
+
+6. On Github, go to settings, choose your repository, choose the main branch, and save
+
+7. Click on the url in Github pages to see your website
 
 # Branch
 -a set of code that you can work on without affecting the main branch
